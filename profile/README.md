@@ -5,11 +5,12 @@ OpenMicroanatomy is a free and open-source software to host & view whole slide i
 
 ## Ecosystem
 
-![Components](https://user-images.githubusercontent.com/45145923/215777288-06a4156d-eda9-42e3-999d-e41eff0aee31.png)
+![Components](https://github.com/openmicroanatomy/.github/assets/45145923/45113d84-914a-4ca6-ba59-dd310369f899)
+
 
 | Main repositories                                                                   | Description |
 |------------------------------------------------------------------------------|-------------|
-| [qupath-edu-extension](https://github.com/openmicroanatomy/qupath-extension) | A QuPath extension which communicates with the OpenMicroanatomy Server and adds new features such as enhanced annotations, slide tours, analyze remote slides and much more. |
-| [openmicroanatomy-server](https://github.com/openmicroanatomy/server)        | Handles authentication, stores the QuPath projects for remote access, backups, converts slides into smaller tiles and such. |
-| [openmicroanatomy-cloud](https://github.com/openmicroanatomy/web)            | A React Web App which communicates with the OpenMicroanatomy Server and provides a whole slide image viewer and other basic QuPath Edu features such as enhanced annotations, slide tours; it *does not* include any analysis features. |
+| [qupath-extension](https://github.com/openmicroanatomy/qupath-extension) | A QuPath extension which communicates with the OpenMicroanatomy Server and adds new features such as enhanced annotations, slide tours, analyze remote slides and much more. |
+| [server](https://github.com/openmicroanatomy/server) | Handles authentication, stores the QuPath projects for remote access, handles backups, converts slides into smaller tiles and much more. |
+| [web](https://github.com/openmicroanatomy/web) | A React app which communicates with the OpenMicroanatomy Server and provides a whole slide image viewer and other basic QuPath Edu features such as enhanced annotations, slide tours; it *does not* include any analysis features. |
 
