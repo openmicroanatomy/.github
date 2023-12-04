@@ -10,7 +10,7 @@ OpenMicroanatomy is a free and open-source software to host & view whole slide i
 
 | Main repositories                                                                   | Description |
 |------------------------------------------------------------------------------|-------------|
-| [qupath-extension](https://github.com/openmicroanatomy/qupath-extension) | A QuPath extension which communicates with the OpenMicroanatomy Server and adds new features such as enhanced annotations, slide tours, analyze remote slides and much more. |
+| [qupath-edu-extension](https://github.com/openmicroanatomy/qupath-edu-extension) | A QuPath extension which communicates with the OpenMicroanatomy Server and adds new features such as enhanced annotations, slide tours, analyze remote slides and much more. |
 | [server](https://github.com/openmicroanatomy/server) | Handles authentication, stores the QuPath projects for remote access, handles backups, converts slides into smaller tiles and much more. |
 | [web](https://github.com/openmicroanatomy/web) | A React app which communicates with the OpenMicroanatomy Server and provides a whole slide image viewer and other basic QuPath Edu features such as enhanced annotations, slide tours; it *does not* include any analysis features. |
 
